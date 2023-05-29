@@ -1,0 +1,18 @@
+`timescale 1ns/1ns
+module TB;
+	reg rst = 0;
+	reg clk = 0;
+	reg start = 0;
+	wire ready;
+	wire [19:0] vect_E, b_1, b_0;
+
+	Regression r(clk, rst, start, ready, vect_E, b_1, b_0);
+
+	always #5 clk = ~clk;
+	initial begin
+		#2 start = 1;
+		#5 start = 0;
+		#20000 $stop;
+	end
+	
+endmodule

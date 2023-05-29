@@ -1,0 +1,34 @@
+{D:/verilog exercise/Modelsim/Computer_Architecture/Regression_Circuit.v} {1 {vlog -work work -stats=none {D:/verilog exercise/Modelsim/Computer_Architecture/Regression_Circuit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Regression
+
+Top level modules:
+	Regression
+
+} {} {}} {D:/verilog exercise/Modelsim/Computer_Architecture/TestBench.v} {1 {vlog -work work -stats=none {D:/verilog exercise/Modelsim/Computer_Architecture/TestBench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {D:/verilog exercise/Modelsim/Computer_Architecture/Controller.v} {1 {vlog -work work -stats=none {D:/verilog exercise/Modelsim/Computer_Architecture/Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} {D:/verilog exercise/Modelsim/Computer_Architecture/Modules.v} {1 {vlog -work work -stats=none {D:/verilog exercise/Modelsim/Computer_Architecture/Modules.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multiplier
+-- Compiling module DataLoader
+-- Compiling module coeffientCalculator
+-- Compiling module ErrorChecker
+
+Top level modules:
+	DataLoader
+	coeffientCalculator
+	ErrorChecker
+
+} {} {}}

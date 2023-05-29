@@ -1,0 +1,202 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/verilog exercise/Modelsim/CA6
+vcoeffientCalculator
+Z0 !s110 1650483351
+!i10b 1
+!s100 jYibiie_FEAH5O2m0]AIP0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ij=8RP2>g7I7:MmJKm?AMa0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/verilog exercise/Modelsim/Computer_Architecture
+Z4 w1650483161
+Z5 8D:/verilog exercise/Modelsim/Computer_Architecture/Modules.v
+Z6 FD:/verilog exercise/Modelsim/Computer_Architecture/Modules.v
+!i122 211
+L0 64 98
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1650483351.000000
+Z9 !s107 D:/verilog exercise/Modelsim/Computer_Architecture/Modules.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/verilog exercise/Modelsim/Computer_Architecture/Modules.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+ncoeffient@calculator
+vController
+R0
+!i10b 1
+!s100 9biU9B;Fgn3`4VAi7YMB01
+R1
+IGh9B[kQ518P?=QAT0>S`01
+R2
+R3
+w1650481712
+8D:/verilog exercise/Modelsim/Computer_Architecture/Controller.v
+FD:/verilog exercise/Modelsim/Computer_Architecture/Controller.v
+!i122 209
+L0 2 44
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/verilog exercise/Modelsim/Computer_Architecture/Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog exercise/Modelsim/Computer_Architecture/Controller.v|
+!i113 1
+R11
+R12
+n@controller
+vDataLoader
+R0
+!i10b 1
+!s100 <Xl9hR9o]mSVeD@h?`99?0
+R1
+IV62_iJb7ANOkgH=X[keJ:2
+R2
+R3
+R4
+R5
+R6
+!i122 211
+L0 16 47
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@data@loader
+vDatapath
+R0
+!i10b 1
+!s100 MZdn;S`>DzJ_>HKHllD<k0
+R1
+IMbjz6E32[6XP:][QcC?oj2
+R2
+R3
+w1650483347
+8D:/verilog exercise/Modelsim/Computer_Architecture/Datapath.v
+FD:/verilog exercise/Modelsim/Computer_Architecture/Datapath.v
+!i122 210
+L0 2 41
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/verilog exercise/Modelsim/Computer_Architecture/Datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog exercise/Modelsim/Computer_Architecture/Datapath.v|
+!i113 1
+R11
+R12
+n@datapath
+vErrorChecker
+R0
+!i10b 1
+!s100 X2<_gHi7W9MfEmkKcVd@K0
+R1
+I[=X4LOAR1zb:IOAKiO9;W0
+R2
+R3
+R4
+R5
+R6
+!i122 211
+L0 163 21
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@error@checker
+vmultiplier
+R0
+!i10b 1
+!s100 >dfmZ[Ej_XKQjKIRoEQzA2
+R1
+Io>=eVU[kPZjaz2kVkeHQ21
+R2
+R3
+R4
+R5
+R6
+!i122 211
+Z13 L0 2 13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vRegression
+Z14 !s110 1650483352
+!i10b 1
+!s100 K3Lk;2^nZY=l;4aEW]nZ@2
+R1
+Iz8^@jImn<TKM8QWfQVnM63
+R2
+R3
+w1650476141
+8D:/verilog exercise/Modelsim/Computer_Architecture/Regression_Circuit.v
+FD:/verilog exercise/Modelsim/Computer_Architecture/Regression_Circuit.v
+!i122 212
+R13
+R7
+r1
+!s85 0
+31
+Z15 !s108 1650483352.000000
+!s107 D:/verilog exercise/Modelsim/Computer_Architecture/Regression_Circuit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog exercise/Modelsim/Computer_Architecture/Regression_Circuit.v|
+!i113 1
+R11
+R12
+n@regression
+vTB
+R14
+!i10b 1
+!s100 7SHEzZ3i_i:MiPJ0`=V=R2
+R1
+I^;SgUCMa@=`K[nahQhLkV3
+R2
+R3
+w1650419835
+8D:/verilog exercise/Modelsim/Computer_Architecture/TestBench.v
+FD:/verilog exercise/Modelsim/Computer_Architecture/TestBench.v
+!i122 213
+L0 2 19
+R7
+r1
+!s85 0
+31
+R15
+!s107 D:/verilog exercise/Modelsim/Computer_Architecture/TestBench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/verilog exercise/Modelsim/Computer_Architecture/TestBench.v|
+!i113 1
+R11
+R12
+n@t@b
